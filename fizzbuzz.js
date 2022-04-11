@@ -1,5 +1,5 @@
 const prompt = require('prompt-sync')();
-let number = 0 
+let number = 0; 
 
 number = prompt("Enter a number: ");
 
